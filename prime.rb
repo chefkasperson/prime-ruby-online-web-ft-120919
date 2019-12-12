@@ -14,7 +14,6 @@ def prime?(number)
   }
   else
     return false
-    binding.pry
   end
   true
 
